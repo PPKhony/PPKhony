@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @PPKhony
-- 👀 I’m interested in CS 
-- 🌱 I’m currently learning Idk 
+- 🌱 I’m currently learning in CS 
