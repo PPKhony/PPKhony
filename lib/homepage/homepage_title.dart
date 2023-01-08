@@ -10,7 +10,8 @@ class HomepageTitle extends StatelessWidget implements PreferredSizeWidget {
     return PreferredSize(
         preferredSize: const Size.fromHeight(100),
         child: AppBar(
-          title: const Text("FoodMenu"),
+          title: const Text("Hello, Praphon",
+              style: TextStyle(fontWeight: FontWeight.w900)),
         ));
   }
 }
