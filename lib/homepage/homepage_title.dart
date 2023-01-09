@@ -12,6 +12,13 @@ class HomepageTitle extends StatelessWidget implements PreferredSizeWidget {
         child: AppBar(
           title: const Text("Hello, Praphon",
               style: TextStyle(fontWeight: FontWeight.w900)),
+          actions: <Widget>[
+            IconButton(
+                icon: const Icon(
+                  Icons.add,
+                ),
+                onPressed: () {})
+          ],
         ));
   }
 }

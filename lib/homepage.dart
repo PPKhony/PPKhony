@@ -1,7 +1,7 @@
 import 'package:basic_app/homepage/homepage_title.dart';
+import 'package:basic_app/homepage/homepage_body.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'homepage/homepage_body.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         fontFamily: 'Opensans',
       ),
-      home: const Scaffold(
-        appBar: HomepageTitle(),
+      home: Scaffold(
+        appBar: const HomepageTitle(),
         body: HomepageBody(),
       ),
     );
