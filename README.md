@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @PPKhony
 - 🌱 I’m currently learning in CS 
+- Practice VSCode Synced with Github
+- Practice Object oriented Programing 
