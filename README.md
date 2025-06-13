@@ -8,5 +8,4 @@
 <div align="center" marginTop="100">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ppkhony&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppkhony&layout=compact&theme=radical" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ppkhony&theme=radical&hide_border=true" />
 </div>
